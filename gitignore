@@ -1,0 +1,5 @@
+venv/
+.05_Store
+__pycache__/
+db.sqlite3
+.idea
